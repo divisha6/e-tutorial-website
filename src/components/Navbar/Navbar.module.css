@@ -1,0 +1,18 @@
+.navbar{
+    font-size: larger;
+    font-weight: 300;
+    background-color: #60d4cc;
+    display: flex;
+    flex-direction: row;
+    height: 90px;
+    
+}
+
+.Links{
+   list-style-type: none; 
+   flex-direction: row;
+   text-decoration: none;
+   display: flex;
+margin-top: 29px;
+margin-left: 15px;
+}
